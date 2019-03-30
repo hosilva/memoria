@@ -1,5 +1,5 @@
 # memória
-Projeto pessoal para resgatar a história da física brasileira.
+Projeto pessoal sobre a história da física brasileira.
 
 - [Ir para o site](https://hosilva.github.io/memoria/)
 
