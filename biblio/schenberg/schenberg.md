@@ -1,6 +1,6 @@
 # Mário Schenberg
 
-![](files/mario_01.jpg)
+![](files/mario_01.jpg=250x250)
 
 Nascimento: 2 de julho 1914 em Recife, Pernambuco
 
