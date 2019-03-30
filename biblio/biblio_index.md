@@ -1,4 +1,4 @@
 # Índice
 -------------------------
 
-* [Schenberg, Mario](biblio/schenberg.md)
+* [Schenberg, Mario](schenberg)
