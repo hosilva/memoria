@@ -1,4 +1,5 @@
 # memória
+Projeto pessoal para resgatar a história da física brasileira.
 
 # Base
 O site usa o template do GitHub pages baseado em [minimal Jekyll theme.](https://github.com/pages-themes/minimal)
