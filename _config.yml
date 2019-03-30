@@ -3,7 +3,7 @@ title: Memória da Física Brasileira
 description: Resgatando a história da física no Brasil
 show_downloads: True
 navigation:
-  - title: Home
+  - title: Página principal
     url: /
-  - title: Setup
-    url: setup
+  - title: Bibliografias
+    url: biblio/biblio_index
