@@ -1,8 +1,8 @@
 # Jayme Tiomno
 
-Nascimento: xx de xx de xxxx em xx, xx
+Nascimento: 16 de abril de 1920 no Rio de Janeiro, Rio de Janeiro
 
-Falecimento: xx de xx de xxxx, xx, xx
+Falecimento: 12 de janeiro de 2011 no Rio de Janeiro, Rio de Janeiro
 
 ## Biografia
 
