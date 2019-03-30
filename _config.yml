@@ -5,5 +5,5 @@ show_downloads: True
 navigation:
   - title: Página principal
     url: /
-  - title: Bibliografias
+  - title: Biografias
     url: biblio/biblio_index

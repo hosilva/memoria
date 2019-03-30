@@ -1,4 +1,4 @@
 # Índice
 -------------------------
 
-* [Schenberg, Mario](schenberg)
+* [Schenberg, Mario](schenberg/schenberg)
