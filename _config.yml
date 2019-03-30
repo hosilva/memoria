@@ -7,3 +7,5 @@ navigation:
     url: /
   - title: Biografias
     url: biblio/biblio_index
+  - title: Tópicos
+    url: topicos/topicos_index
