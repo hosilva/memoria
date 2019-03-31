@@ -17,7 +17,9 @@ Frota Pessôa pela então Universidade do Brasil hoje (Universidade Federal do R
 ambas no mesmo ano. Por se destacar como estudante, foi convidada por Gleb Wataghin 
 para que fosse assistente de sua cadeira de Física Teórica e Matemática. Nesse período, 
 Sonja "estudou o problema da origem do elementos e pesquisou sobre raios cósmicos".
+</div>
 
+<div style="text-align: justify">
 Em 1945, ela recebeu uma bolsa do British Council, para realizar o seu doutorado 
 na Universidade de Cambridge, na qual ela pertenceu ao Newnham College e estudou 
 sob a orientação do então já prêmio Nobel, Paul Dirac. 
@@ -28,12 +30,16 @@ dois nos Proceedings of the Cambridge Philosophical Society.
 A sua tese de doutorado *Problems on electrons and electromagnetic radiation* foi defendida
 em fevereiro de 1948 e a fez a primeira doutora em física brasileira. 
 Além disso, Sonja também foi nomeada membro da Cambridge Philosophical Society.
+</div>
 
+<div style="text-align: justify">
 Após defender seu doutorado (e apesar do convite de Dirac para continuar a colaboração 
 científica no EUA) Sonja regressou ao Brasil em março de 1948 se juntando ao grupo de 
 Wataghin na Universidade de São Paulo. Infelizmente, após apenas cinco meses do seu 
 retorno, uma gripe logo se tornou uma pneumonia e Sonja faleceu precocimente em agosto de 1948.
+</div>
 
+<div style="text-align: justify">
 Fechamos essa breve biografia com uma elogiosa citação de Dirac à Sonja, que 
 resume suas qualidades como pesquisadora e que também dá margem para imaginarmos o que ela 
 poderia ter alcançado se não tivesse falecido aos 25 anos. Segundo Dirac ela foi "sempre 
