@@ -39,13 +39,13 @@ Wataghin na Universidade de São Paulo. Infelizmente, após apenas cinco meses d
 retorno, uma gripe logo se tornou uma pneumonia e Sonja faleceu precocimente em agosto de 1948.
 </div>
 
-<div style="text-align: justify">
+<p align="justify">
 Fechamos essa breve biografia com uma elogiosa citação de Dirac à Sonja, que 
 resume suas qualidades como pesquisadora e que também dá margem para imaginarmos o que ela 
 poderia ter alcançado se não tivesse falecido aos 25 anos. Segundo Dirac ela foi "sempre 
 muito industriosa e aguda em seu trabalho, e fez úteis contribuições à ciência, que 
 sobreviverão em seus trabalhos publicados."
-</div>
+</p>
 
 ## Bibliografia
 * Ciência para todos: Suplemento de Divulgação Científica
