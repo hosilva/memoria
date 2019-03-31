@@ -8,6 +8,7 @@ Falecimento: 21 de agosto de 1948 em São Paulo, São Paulo
 
 ## Biografia
 
+<div style="text-align: justify">
 Sonja nasceu em São Paulo, filha do engenheiro de origem alemã Walter Ashauer 
 e de Herta Graffenbenger. Ela ingressou no curso de física na Faculdade de Filosofia, 
 Ciências e Letras da Universidade de São Paulo em 1940, graduando-se bacharel em 1942.
@@ -38,6 +39,7 @@ resume suas qualidades como pesquisadora e que também dá margem para imaginarm
 poderia ter alcançado se não tivesse falecido aos 25 anos. Segundo Dirac ela foi "sempre 
 muito industriosa e aguda em seu trabalho, e fez úteis contribuições à ciência, que 
 sobreviverão em seus trabalhos publicados."
+</div>
 
 ## Bibliografia
 * Ciência para todos: Suplemento de Divulgação Científica
