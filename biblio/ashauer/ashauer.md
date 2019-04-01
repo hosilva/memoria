@@ -31,13 +31,14 @@ Além disso, Sonja também foi nomeada membro da Cambridge Philosophical Society
 Após defender seu doutorado (e apesar do convite de Dirac para continuar a colaboração 
 científica nos EUA) Sonja regressou ao Brasil em março de 1948, onde se juntou ao grupo de 
 Wataghin na Universidade de São Paulo. Infelizmente, após apenas cinco meses do seu 
-retorno, uma gripe logo se tornou uma pneumonia e Sonja faleceu precocimente em agosto de 1948.
+retorno, uma gripe logo se tornou uma pneumonia e Sonja faleceu precocemente em agosto de 1948.
 
 Fechamos essa breve biografia com uma elogiosa citação de Dirac sobre Sonja, que 
 resume suas qualidades como pesquisadora e que também dá margem para imaginarmos o que ela 
-poderia ter alcançado se não tivesse falecido aos 25 anos. Segundo Dirac ela foi "sempre 
-muito industriosa e aguda em seu trabalho, e fez úteis contribuições à ciência, que 
-sobreviverão em seus trabalhos publicados."
+poderia ter alcançado se não tivesse falecido aos 25 anos. Segundo Dirac ela foi: 
+
+> "sempre muito industriosa e aguda em seu trabalho, e fez úteis contribuições à ciência, que 
+> sobreviverão em seus trabalhos publicados."
 
 ## Bibliografia
 * Ciência para todos: Suplemento de Divulgação Científica
